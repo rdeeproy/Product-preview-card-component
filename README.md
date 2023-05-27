@@ -1,3 +1,3 @@
 # Product-preview-card-component
-frontend mentor chalenge
+frontend mentor challenge
 responsive design
